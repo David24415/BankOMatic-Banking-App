@@ -1,0 +1,49 @@
+All customers cleared.
+Customer added. Number = 97598313
+Customer added. Number = 37246112
+Customer added. Number = 45534382
+Customer added. Number = 55401945
+Customer added. Number = 99241167
+68074997
+63525586
+81063460
+24948335
+28222937
+Account#. Type...... Balance.....
+_________ __________ ____________
+024948335 Savings    14.54
+028222937 Checking   15.55
+063525586 Checking   12.52
+068074997 Checking   11.51
+081063460 Savings    13.53
+_________ __________ ____________
+Account [81063460] was deleted.
+Account#. Type...... Balance.....
+_________ __________ ____________
+024948335 Savings    14.54
+028222937 Checking   15.55
+063525586 Checking   12.52
+068074997 Checking   11.51
+_________ __________ ____________
+Error: Unfound Account# 9999999
+Error: Previously Deleted Account# 81063460
+068074997 Checking   11.51
+10 random accounts added.
+Account#. Type...... Balance.....
+_________ __________ ____________
+003642393 Savings    705.50
+020535740 Savings    2382.50
+024948335 Savings    14.54
+027058754 Checking   4169.50
+028222937 Checking   15.55
+043776765 Savings    1827.50
+052380282 Checking   2995.50
+061853188 Savings    436.50
+063525586 Checking   12.52
+068074997 Checking   11.51
+076955652 Checking   4358.50
+084474409 Checking   3467.50
+096720050 Savings    3902.50
+099632046 Savings    4718.50
+_________ __________ ____________
+
